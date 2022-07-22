@@ -5,3 +5,10 @@
     width: 50rem;
     max-width: 95%;
 }
+
+.no-item-msg {
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+}
